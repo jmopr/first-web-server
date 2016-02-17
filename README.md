@@ -1,3 +1,3 @@
 # first-web-server
 First Web Server
-Includes all the files for heroku.
+Includes Gemfile, Gemfile.loc and Procfile files for Heroku.
